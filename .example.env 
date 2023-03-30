@@ -1,0 +1,9 @@
+NODE_ENV=development
+
+DB_HOST=localhost
+DB_PORT=3306
+DB_NAME=express_api
+DB_USER=dev
+DB_PASSWORD=dev
+
+JWT_SECRET_KEY=s3creTB4ng3T
